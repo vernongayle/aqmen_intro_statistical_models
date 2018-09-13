@@ -36,6 +36,17 @@ Statistical Data Analysis Software
 Interpreting Statistical Modelling Results
 Interaction Effects
 
+### Link to Research Example
+
+Vernon Gayle, Susan Murray & Roxanne Connelly (2016) Young people and school General Certificate of Secondary Education attainment: looking for the ‘missing middle’, British Journal of Sociology of Education, 37:3, 350-370, DOI: 10.1080/01425692.2014.935292
+
+
+https://www.tandfonline.com/doi/full/10.1080/01425692.2014.935292
+(you may require academic institutional access)
+
+Link to Regression Model Table 3
+https://www.tandfonline.com/doi/figure/10.1080/01425692.2014.935292?scroll=top&needAccess=true
+
 ### Reading List: 
 
 These links are to Amazon (https://www.amazon.co.uk) but there are a number of other reputable academic book sellers (e.g. https://blackwells.co.uk/bookshop/shops/).
@@ -93,8 +104,8 @@ http://www-personal.umich.edu/~agrogan/stata/TwoPageStata.pdf
 
 SPSS	www.ibm.com/DataStatistics/SPSS <br>
 SAS  	www.sas.com <br>
-R		https://cran.r-project.org <br>
-Python	www.python.org  <br>
+R		https://cran.r-project.org
+Python	www.python.org
 Julia	https://julialang.org/
 
 
