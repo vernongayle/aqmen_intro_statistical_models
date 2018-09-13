@@ -24,17 +24,17 @@ This workshop is a taster session. Conceptual ideas relating to statistical mode
 
 ### Topics: 
 
-Basic Concepts in Statistical Data Analysis
-Probability
-Significance Tests
-Relationships in Data
-Correlations
-Confidence Intervals
-Bivariate Relationships
-Ordinary Least Squares
-Statistical Data Analysis Software
-Interpreting Statistical Modelling Results
-Interaction Effects
+Basic Concepts in Statistical Data Analysis <br>
+Probability <br>
+Significance Tests <br>
+Relationships in Data <br>
+Correlations <br>
+Confidence Intervals <br>
+Bivariate Relationships <br>
+Ordinary Least Squares <br>
+Statistical Data Analysis Software <br>
+Interpreting Statistical Modelling Results <br>
+Interaction Effects <br>
 
 ### Link to Research Example
 
