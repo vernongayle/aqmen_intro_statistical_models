@@ -93,8 +93,8 @@ http://www-personal.umich.edu/~agrogan/stata/TwoPageStata.pdf
 
 SPSS	www.ibm.com/DataStatistics/SPSS <br>
 SAS  	www.sas.com <br>
-R		https://cran.r-project.org
-Python	www.python.org
+R		https://cran.r-project.org <br>
+Python	www.python.org  <br>
 Julia	https://julialang.org/
 
 
