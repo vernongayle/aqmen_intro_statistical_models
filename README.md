@@ -1,8 +1,7 @@
 # An Introduction to Statistical Modelling for Qualitative Researchers<br>
 <br>
 
-## This is an AQMEN repository for 
-## An Introduction to Statistical Modelling for Qualitative Researchers
+## This is an AQMEN repository for *An Introduction to Statistical Modelling for Qualitative Researchers*
 
 
 ### Workshop (September 2018)
